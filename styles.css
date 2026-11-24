@@ -40,7 +40,7 @@ hr {
 }
 
 
-/* Top Container */
+
 
 .top-container {
     background-color: #E4F9F5;
@@ -69,14 +69,14 @@ hr {
 }
 
 
-/* Middle Container */
+
 
 .middle-container {
     margin: 100px 0;
 }
 
 
-/* Profile Section */
+
 
 .profile-img {
     width: 180px;
@@ -90,7 +90,7 @@ hr {
 }
 
 
-/* Skills and Interests Section */
+
 
 .skill-row {
     width: 60%;
@@ -104,7 +104,7 @@ hr {
 }
 
 
-/* Reverse Image and Text Position */
+
 
 .skill-row.reverse {
     flex-direction: row-reverse;
@@ -122,7 +122,7 @@ hr {
 }
 
 
-/* Skills Text */
+
 
 .skill-text {
     flex: 1;
@@ -137,7 +137,7 @@ hr {
 }
 
 
-/* Contact Section */
+
 
 .contact-message {
     width: 40%;
@@ -146,7 +146,7 @@ hr {
 }
 
 
-/* Contact Button */
+
 
 .btn {
     background: #11CDD4;
@@ -168,7 +168,7 @@ hr {
 }
 
 
-/* Bottom Container */
+
 
 .bottom-container {
     background-color: #66BFBF;
@@ -181,7 +181,7 @@ hr {
 }
 
 
-/* Social Media Links */
+
 
 .footer-link {
     color: #205456;
@@ -204,7 +204,7 @@ hr {
 }
 
 
-/* Responsive Design - Tablets */
+
 
 @media screen and (max-width: 1024px) {
 
@@ -222,7 +222,7 @@ hr {
 }
 
 
-/* Responsive Design - Mobile Phones */
+
 
 @media screen and (max-width: 768px) {
 
@@ -296,7 +296,7 @@ hr {
 }
 
 
-/* Responsive Design - Small Phones */
+
 
 @media screen and (max-width: 480px) {
 
